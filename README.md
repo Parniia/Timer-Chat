@@ -10,7 +10,5 @@ TimerChat is also a proxy to OpenAI APIs. What does that mean? Well, you can sen
 
 ## Demo 🚀
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-    <img src="./Images/Screenshot01.jpg" alt="Screenshot01" style="width: 100%; max-width: 400px; flex: 1;"/>
-    <img src="./Images/Screenshot02.jpg" alt="Screenshot02" style="width: 100%; max-width: 400px; flex: 1;"/>
-</div>
+![Screenshot01](./Images/Screenshot01.jpg)
+![Screenshot02](./Images/Screenshot02.jpg)

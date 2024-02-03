@@ -11,4 +11,3 @@ TimerChat is also a proxy to OpenAI APIs. What does that mean? Well, you can sen
 ## Demo 🚀
 
 ![Screenshot01](./Images/Screenshot01.jpg)
-![Screenshot02](./Images/Screenshot02.jpg)
